@@ -1,2 +1,2 @@
-# ros
+# rps
 Rock, Paper and Scissors
